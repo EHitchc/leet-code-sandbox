@@ -1,7 +1,8 @@
 # Examples of algorithms can be found as below:
 
-## HashMap/Dictionary
+## HashSet/HashMap/Dictionary
 - [Problem 1](LeetCodeSandbox/Problems/Problem1/TwoSum.cs)
+- [Problem 1356](LeetCodeSandbox/Problems/Problem1356/CheckNAndDouble.cs)
 
 ## Navigating Linked List
 - [Problem 2](LeetCodeSandbox/Problems/Problem2/AddTwoNumbers.cs)
