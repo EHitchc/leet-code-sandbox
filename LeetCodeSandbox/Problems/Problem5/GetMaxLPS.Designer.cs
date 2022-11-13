@@ -1,4 +1,4 @@
-﻿namespace LeetCodePlayground.Problems.Problem5
+﻿namespace LeetCodeSandbox.Problems.Problem5
 {
     partial class GetMaxLPS
     {

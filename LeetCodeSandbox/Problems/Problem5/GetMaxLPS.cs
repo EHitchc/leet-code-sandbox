@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Text;
 
-namespace LeetCodePlayground.Problems.Problem5
+namespace LeetCodeSandbox.Problems.Problem5
 {
     public partial class GetMaxLPS : Component
     {

@@ -1,7 +1,7 @@
-﻿using LeetCodePlayground.Problems.Problem5;
+﻿using LeetCodeSandbox.Problems.Problem5;
 using System;
 
-namespace LeetCodePlayground
+namespace LeetCodeSandbox
 {
     class Program
     {
