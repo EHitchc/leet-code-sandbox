@@ -1,4 +1,4 @@
-﻿using LeetCodeSandbox.Problems.Problem6;
+﻿using LeetCodeSandbox.Problems.Problem8;
 using System;
 
 namespace LeetCodeSandbox
@@ -7,8 +7,8 @@ namespace LeetCodeSandbox
     {
         static void Main(string[] args)
         {
-            var test = new ZigzagConversion();
-            Console.WriteLine(test.Convert("AB", 1));
+            var test = new StringToInt();
+            Console.WriteLine(test.MyAtoi("00000 - 42a1234"));
         }
     }
 }
