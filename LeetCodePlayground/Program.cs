@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LeetCodePlayground.Problems.Problem5;
+using System;
 
 namespace LeetCodePlayground
 {
@@ -6,7 +7,8 @@ namespace LeetCodePlayground
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var test = new GetMaxLPS();
+            Console.WriteLine(test.LongestPalindrome("bb"));
         }
     }
 }
