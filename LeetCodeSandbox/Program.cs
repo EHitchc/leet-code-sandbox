@@ -1,4 +1,4 @@
-﻿using LeetCodeSandbox.Problems.Problem5;
+﻿using LeetCodeSandbox.Problems.Problem6;
 using System;
 
 namespace LeetCodeSandbox
@@ -7,8 +7,8 @@ namespace LeetCodeSandbox
     {
         static void Main(string[] args)
         {
-            var test = new GetMaxLPS();
-            Console.WriteLine(test.LongestPalindrome("bb"));
+            var test = new ZigzagConversion();
+            Console.WriteLine(test.Convert("AB", 1));
         }
     }
 }

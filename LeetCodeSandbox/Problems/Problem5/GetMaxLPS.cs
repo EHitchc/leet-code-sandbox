@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Diagnostics;
-using System.Text;
 
 namespace LeetCodeSandbox.Problems.Problem5
 {
-    public partial class GetMaxLPS : Component
+    class GetMaxLPS
     {
-        public GetMaxLPS()
-        {
-            InitializeComponent();
-        }
         public string LongestPalindrome(string s)
         {
             if (s.Length == 0) return "";
