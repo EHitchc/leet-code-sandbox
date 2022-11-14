@@ -48,3 +48,4 @@ namespace LeetCodeSandbox.Problems.Problem147
             return sortedHead;
         }
     }
+}
