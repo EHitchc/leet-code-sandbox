@@ -8,9 +8,15 @@
 - [Problem 2](LeetCodeSandbox/Problems/Problem2/AddTwoNumbers.cs)
 
 ## Insertion Sort on Singly-Linked List
-- [Problem 147](LeetCodeSandbox/Problems/Problem147/InsertionSortLinkedList.cs)
+- [Problem 147](LeetCodeSandbox/Problems/Problem147/InsertSortLinkedList.cs)
 
-## Recursion
+## Binary Search
+- [Problem 1539](LeetCodeSandbox/Problems/Problem1539/MissingPositiveNumber.cs)
+
+## Recursion/Backtracking
+- [Problem 1774](LeetCodeSandbox/Problems/Problem1774/ClosestDessertCost.cs)
+
+## Dynamic Programming
 - [Problem 10](LeetCodeSandbox/Problems/Problem10/RegExMatching.cs)
 
 ## Two Pointers
