@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LeetCodeSandbox.Problems.Problem709
 {
-    class ToLowerCase
+    class ToLowerCaseClass
     {
         public string ToLowerCase(string s)
         {
